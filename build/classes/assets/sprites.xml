@@ -1,0 +1,179 @@
+<sprites>
+    <!-- Player 1 -->
+    <sprite name="player1">
+        <path>/assets/player/player.png</path>
+    </sprite>
+    <sprite name="scarf1.1">
+        <path>/assets/player/scarfSegmentP1.png</path>
+    </sprite>
+    <sprite name="scarf1.2">
+        <path>/assets/player/scarfSegmentP1v2.png</path>
+    </sprite>
+    
+    <!-- Player 2 -->
+    <sprite name="player2">
+        <path>/assets/player/player2.png</path>
+    </sprite>
+    <sprite name="scarf2.1">
+        <path>/assets/player/scarfSegmentP2.png</path>
+    </sprite>
+    <sprite name="scarf2.2">
+        <path>/assets/player/scarfSegmentP2v2.png</path>
+    </sprite>
+    
+    <sprite name="shadow">
+        <path>/assets/player/shadow.png</path>
+    </sprite>
+    <sprite name="mark">
+        <path>/assets/player/floormark.png</path>
+    </sprite>
+    
+    <!--Power Ups Icons-->
+    <sprite name = "powerUp1">
+        <path>/assets/powerUps/muramasa.png</path>
+    </sprite>
+    <sprite name = "powerUp2">
+        <path>/assets/powerUps/shield.png</path>
+    </sprite>
+    <sprite name = "powerUp3">
+        <path>/assets/powerUps/vanishCap.png</path>
+    </sprite>
+    <sprite name = "particle1">
+        <path>/assets/powerUps/particle1.png</path>
+    </sprite>
+    <sprite name = "particle2">
+        <path>/assets/powerUps/particle2.png</path>
+    </sprite>
+    <sprite name = "particle3">
+        <path>/assets/powerUps/particle3.png</path>
+    </sprite>
+    
+    <!-- Power Ups -->
+    <sprite name = "mario">
+        <path>/assets/player/mario.png</path>
+    </sprite>
+    <sprite name = "luigi">
+        <path>/assets/player/luigi.png</path>
+    </sprite>
+    <sprite name = "sword1">
+        <path>/assets/player/sword1.png</path>
+    </sprite>
+    <sprite name = "sword2">
+        <path>/assets/player/sword2.png</path>
+    </sprite>
+    <sprite name = "axe">
+        <path>/assets/player/throwAxe.png</path>
+    </sprite>
+    <sprite name = "charge">
+        <path>/assets/powerUps/charge.png</path>
+    </sprite>
+
+    <!-- Obstáculos -->
+    <sprite name="wall">
+        <path>/assets/obstacles/wall.png</path>
+    </sprite>
+    <sprite name="fallblock">
+        <path>/assets/obstacles/fallblock.png</path>
+    </sprite>
+    <sprite name="blockshadow">
+        <path>/assets/obstacles/block_shadow.png</path>
+    </sprite>
+    <sprite name="saw">
+        <path>/assets/obstacles/saw.png</path>
+    </sprite>
+    <sprite name="bird">
+        <path>/assets/obstacles/bird.png</path>
+    </sprite>
+    <sprite name="layer1">
+        <path>/assets/environment/ground5.png</path>
+    </sprite>
+    <sprite name="layer2">
+        <path>/assets/environment/mountains.png</path>
+    </sprite>
+    <sprite name="layer3">
+        <path>/assets/environment/Layer3.png</path>
+    </sprite>
+
+    <!-- Mouse -->
+    <sprite name="cursor">
+        <path>/assets/ui/mouse.png</path>
+    </sprite>
+    
+    <!-- Fundos dos Gamestates -->
+    <sprite name="fundoMenu">
+        <path>/assets/menu/fundoMenu.png</path>
+    </sprite>
+    <sprite name="fundoGameOver">
+        <path>/assets/menu/fundoGameOverProto.png</path>
+    </sprite>
+    <sprite name="fundoAbout">
+        <path>/assets/menu/fundoProto.png</path>
+    </sprite>
+    
+    <!-- BOTÕES DOS GAMESTATES -->
+    <sprite name="exitbutton">
+        <path>/assets/ui/exit_button.png</path>
+    </sprite>
+    
+    <sprite name="hosting">
+        <path>/assets/ui/hosting.png</path>
+    </sprite>
+    
+    <sprite name="submit"> 
+        <path>/assets/ui/enviar_button.png</path>
+    </sprite>
+    
+    
+    <!-- tela de menu -->
+    <sprite name="menu_playOfflineButton">
+        <path>/assets/ui/menu_playOffline_button.png</path>
+    </sprite>
+    <sprite name="menu_playOnlineButton">
+        <path>/assets/ui/menu_playOnline_button.png</path>
+    </sprite>
+    <sprite name="menu_exitButton">
+        <path>/assets/ui/menu_exit_button.png</path>
+    </sprite>
+    
+    <!-- JOGANDO AFK -->
+    <sprite name="layer0">
+        <path>/assets/environment/fundo.png</path>
+    </sprite>
+        
+    
+    <!-- tela de game over -->
+    <sprite name="gameover_menuButton">
+        <path>/assets/ui/gameover_menu_b.png</path>
+    </sprite>
+    <sprite name="gameover_restartButton">
+        <path>/assets/ui/gameover_restart_b.png</path>
+    </sprite>
+    
+    <!-- tela de Multiplayer -->
+    <sprite name="asServerButton">
+        <path>/assets/ui/playAsServer_button.png</path>
+    </sprite>
+    <sprite name="asClientButton">
+        <path>/assets/ui/playAsClient_button.png</path>
+    </sprite>
+    <sprite name="localButton">
+        <path>/assets/ui/multiplayerLocal_button.png</path>
+    </sprite>
+    
+    <!-- particulas -->
+    <sprite name="SnowParticle1">
+        <path>/assets/particles/snowP1.png</path>
+    </sprite>
+    <sprite name="SnowParticle2">
+        <path>/assets/particles/snowP2.png</path>
+    </sprite>
+    <sprite name="SnowParticle3">
+        <path>/assets/particles/snowP3.png</path>
+    </sprite>
+    <sprite name="SnowParticle4">
+        <path>/assets/particles/snowP4.png</path>
+    </sprite>
+    <sprite name="SnowParticle5">
+        <path>/assets/particles/snowP5.png</path>
+    </sprite>
+</sprites>
